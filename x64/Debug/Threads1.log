@@ -1,0 +1,5 @@
+﻿  Threads1.cpp
+C:\Users\79517\source\repos\Threads1\Threads1\Threads1.cpp(23,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79517\source\repos\Threads1\Threads1\Threads1.cpp(51,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79517\source\repos\Threads1\Threads1\Threads1.cpp(79,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Threads1.vcxproj -> C:\Users\79517\source\repos\Threads1\x64\Debug\Threads1.exe
